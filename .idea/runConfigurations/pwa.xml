@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" singleton="true" nameIsGenerated="true">
+  <configuration default="false" name="pwa" type="AndroidRunConfigurationType" factoryName="Android App" singleton="true">
     <option name="DEPLOY" value="true" />
     <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
     <option name="DEPLOY_AS_INSTANT" value="false" />
